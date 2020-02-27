@@ -1,2 +1,2 @@
-# in4biz
- 1xbet
+# in4.biz
+ 1xbet miror
