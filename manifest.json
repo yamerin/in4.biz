@@ -3,7 +3,7 @@
     "short_name": "1xBet Зеркало",
     "description": "💎 Букмекерская контора 1xBet зеркало: Ставки на спорт в Live и по линии, высокие коэффициенты, online ставки, бонусы, промокоды и мгновенные выплаты",
     "lang": "ru-RU",
-    "start_url": "https://yamerin.github.io/in4.biz/index.html?_utl_t=pwa",
+    "start_url": "/index.html?_utl_t=pwa",
     "display": "standalone",
     "theme_color": "#1A5685",
     "background_color": "#1A5685",
